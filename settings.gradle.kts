@@ -7,4 +7,4 @@ pluginManagement {
         maven("https://dl.bintray.com/kotlin/kotlin-eap")
     }
 }
-rootProject.name = "mirai-example"
+rootProject.name = "mirai-60s"
